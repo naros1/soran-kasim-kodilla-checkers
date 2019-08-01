@@ -17,7 +17,7 @@ public class Blackjack extends Application {
 
 
     private Image imageback = new Image("table.png");
-    private Image card = new Image("card.png");
+    private Image card = new Image("card.gif");
     private FlowPane cards = new FlowPane(Orientation.HORIZONTAL);
 
     public static void main(String[] args) {
